@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InterProcessDataExchangeApp2</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_from_app1">Load From App1</string>
+</resources>
